@@ -15,4 +15,7 @@ export class AppComponent {
   changeImage(event:any){
     this.url=event.target.src;
   }
+  url1:string="../assets/img/815211_1.jpg"
+  url2:string="../assets/img/400141_1.jpg"
+  url3:string="../assets/img/573101_1.jpg"
 }
